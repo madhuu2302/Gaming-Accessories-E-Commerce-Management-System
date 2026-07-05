@@ -1,4 +1,4 @@
-🎮 Gaming Accessories E-Commerce Management System
+## 🎮 Gaming Accessories E-Commerce Management System
 
  📖 Project Overview
 
