@@ -1,6 +1,6 @@
-## 🎮 Gaming Accessories E-Commerce Management System
+## Gaming Accessories E-Commerce Management System
 
- 📖 Project Overview
+  Project Overview
 
 The **Gaming Accessories E-Commerce Management System** is a Database Management System (DBMS) project designed to manage an online store for gaming accessories. The project is inspired by the workflow of **Amazon's Gaming Accessories marketplace**, using publicly available product information as a reference for academic purposes.
 
@@ -8,7 +8,7 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 
 > **Note:** This project is created for educational purposes only and is not affiliated with or endorsed by Amazon.
 
- 🎯 Objectives
+  Objectives
 
 - Design a relational database for an e-commerce platform.
 - Store and manage gaming accessory information.
@@ -19,7 +19,7 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 - Maintain data integrity with primary and foreign keys.
 - Generate reports for business analysis.
 
-🚀 Features
+Features
 
 ~Customer Management
 
@@ -62,7 +62,7 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 - Inventory reports
 - Customer purchase reports
 
- 🗂️ Database Modules
+ Database Modules
 
 - Customer
 - Product
@@ -76,7 +76,7 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 - Shipping
 - Reviews
 
-🛠️ Technologies Used
+ Technologies Used
 
 - Oracle SQL / SQL
 - DBMS Concepts
@@ -84,7 +84,7 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 - Relational Schema
 - Normalization
 
-🗃️ Database Concepts Used
+ Database Concepts Used
 
 - Primary Key
 - Foreign Key
@@ -94,7 +94,7 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 - Constraints
 - Relationships
 
-🔄 System Workflow
+System Workflow
 
 1. Customer registers and logs in.
 2. Customer browses gaming accessories.
@@ -106,11 +106,11 @@ The system demonstrates how an e-commerce platform manages customers, products, 
 8. Product is delivered.
 9. Customer provides ratings and reviews.
 
-📂 Data Source
+ Data Source
 
 The product information used in this project is based on **Amazon's Gaming Accessories marketplace**. Publicly available product details such as product name, brand, category, price, ratings, and seller information are used only as sample data for academic purposes.
 
- 📌 Future Enhancements
+ Future Enhancements
 
 - User authentication
 - Wishlist feature
@@ -120,7 +120,7 @@ The product information used in this project is based on **Amazon's Gaming Acces
 - Admin dashboard
 - Sales analytics
 
-👩‍💻 Author
+Author
 
 **Madhumitha**
 
