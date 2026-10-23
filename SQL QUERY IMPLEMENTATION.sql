@@ -38,8 +38,6 @@ WHERE NOT Category = 'Accessories';
 SELECT CustomerID, CustomerName, Email, Mobile
 FROM Customer;
 
-
--- Customers aged between 20 and 22
 SELECT CustomerID, CustomerName, Age
 FROM Customer
 WHERE Age BETWEEN 20 AND 22;
